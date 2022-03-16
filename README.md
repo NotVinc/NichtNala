@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @NichtNala
-
-<!---
-NichtNala/NichtNala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[GitHub]cd VincEXE
+[VincExe] cd Age
+[Age] 15 Yeats old
+[VincExe] cd Hobby
+[Hobby] My hobby is it to code and Test self made Programms.
